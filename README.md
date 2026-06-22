@@ -19,14 +19,18 @@ I thrive in environments where I can leverage analytics, SQL, and data visualiza
 * **Status:** Completed
 * **Resources:** BigQuery Public Datasets
 * **Description:** 
-* Explored BigQuery’s public dataset on homelessness from 2010 - 2018 to draw insights into historical trends.
+  * Explored BigQuery’s public dataset on homelessness from 2010 - 2018 to draw insights into historical trends.
   * Modified the dataset using SQL to allow for more efficient analysis, including removing unnecessary columns and creating new ones.
   * Performed data analysis using SQL queries to identify locations that need support for homeless youth and homeless veterans, in addition to sourcing locations that were effectively supporting their homeless population.
 
 
 ### 3. Data Cleaning & Visualization (Merit America)
-* **Project:** Excel / Google Sheets Analytics
-* **Status:** *Coming Soon*
+* **Project:** Spreadsheet Data Processing & Analytics
+* **Status:** Completed
+* **Description:**
+* * Applied advanced spreadsheet functions (Excel / Google Sheets) to process, clean, and analyze datasets as part of the Google Data Analytics Professional Certificate curriculum.
+  * Ensured data integrity and utilized advanced cleaning methodologies to transform raw "dirty" data into structured, usable formats.
+  * Executed complex functions including pivot tables, VLOOKUPs, and conditional logic to extract actionable insights and create foundational data visualizations.
 
 ### 4. Merit America Capstone
 * **Status:** *Coming Soon*
