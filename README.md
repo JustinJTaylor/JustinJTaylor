@@ -16,7 +16,13 @@ I thrive in environments where I can leverage analytics, SQL, and data visualiza
 
 ### 2. Relational Database Management (Merit America)
 * **Project:** SQL Data Exploration 
-* **Status:** *Coming Soon*
+* **Status:** Completed
+* **Resources:** BigQuery Public Datasets
+* **Description:** 
+* Explored BigQuery’s public dataset on homelessness from 2010 - 2018 to draw insights into historical trends.
+  * Modified the dataset using SQL to allow for more efficient analysis, including removing unnecessary columns and creating new ones.
+  * Performed data analysis using SQL queries to identify locations that need support for homeless youth and homeless veterans, in addition to sourcing locations that were effectively supporting their homeless population.
+
 
 ### 3. Data Cleaning & Visualization (Merit America)
 * **Project:** Excel / Google Sheets Analytics
